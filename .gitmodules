@@ -1,0 +1,3 @@
+[submodule "opencompass"]
+	path = opencompass
+	url = /home/draco/emnlp25/scale/codes/opencompass/
